@@ -7167,7 +7167,6 @@ b7b7a6ca-9543-43e9-bbef-136aa21dc12b,televisionchannel.health,available,70,1,18,
 47d9fbb6-6115-44de-9bb3-8e800df4cc43,TempleCity.health,available,,2,11,,,
 5b120dd7-d9a9-4168-908d-0d27538f2f95,temporary.health,available,78,15,9,,,
 bf12e28b-d439-4bda-b63e-b53d63c86c33,tempting.health,available,88,4,8,,,
-ee953039-ffcc-4d0a-9bf7-0579186c5060,ten.health,available,88,99,3,,,
 bec3bd44-f30c-4462-9872-488b8a1219f4,tenner.health,available,66,97,6,,,
 5f0111d7-f64b-4c48-80bf-7850b4a42a47,tennis.health,available,72,23,6,,,
 091ee6df-3bc4-4481-b768-20f9050d02d3,tentative.health,available,81,3,9,,,
@@ -7560,7 +7559,7 @@ b027a8f9-d14c-493e-a3dd-6f1a14d848ec,UnionCity.health,available,,5,10,,,
 f74d2ddb-ae0e-4a95-977c-80f84839ac7f,unit.health,resell,88,39,4,"Spaceship, Inc.",25/09/2025 05:19,25/09/2026 05:19
 7d42a17f-8a1c-4066-bca9-4f11b6ab989d,UnitedKingdom.health,available,,5,14,,,
 1e356038-54b0-42d7-a750-ed98da5d5276,UnitedStates.health,available,,5,13,,,
-554e9980-4ec8-4da5-96ee-9b714887948f,unity.health,resell,70,98,5,"GoDaddy.com, LLC",05/12/2017 15:33,05/12/2026 15:33
+554e9980-4ec8-4da5-96ee-9b714887948f,unity.health,resell,70,41,5,"GoDaddy.com, LLC",05/12/2017 23:33,05/12/2026 23:33
 c3d284da-9216-4e3f-875d-f90d7fe58262,universally.health,available,62,2,11,,,
 8d461a0c-41e2-49c1-926b-66d057d6f5db,unjustified.health,available,54,1,11,,,
 7f1113ef-69be-45c2-a3a0-3e5ac78b4fc7,unkeyed.health,available,37,1,7,,,
