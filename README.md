@@ -65,7 +65,7 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | nationwide.health   | available | $89.99    | $103.99       | 76             | 66     | 10     | name.com         |
-| concrete.health     | resell    | $98.98    | —             | 102            | 31     | 8      | Dynadot Inc      |
+| concrete.health     | resell    | $98.98    | —             | 102            | 32     | 8      | Dynadot Inc      |
 | abc.health          | premium   | $6,500    | $71.50        | 102            | 50     | 3      | namecheap        |
 | seventeen.health    | available | $89.99    | $103.99       | 84             | 62     | 9      | name.com         |
 | artificial.health   | resell    | —         | —             | 68             | 98     | 10     | Spaceship, Inc.  |
