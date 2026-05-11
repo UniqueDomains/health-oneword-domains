@@ -196,7 +196,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 12074de6-b62b-4777-a05a-55d11d1648ee,cops.health,available,19.99,,74,13,4,name.com,,
 120e2912-cbc6-4c08-a28d-0c817f2fa2c8,weddingcake.health,available,19.99,,85,5,12,name.com,,
 121ae92f-d3ba-4f4c-9722-c8c79094be96,hospitals.health,resell,,,64,10,9,"GoDaddy.com, LLC",07/11/2023 22:09,07/11/2026 22:09
-123e3255-040d-4c11-8129-07dfcc162413,simpler.health,resell,,,66,16,7,"Spaceship, Inc.",11/04/2026 20:17,11/04/2027 20:17
+123e3255-040d-4c11-8129-07dfcc162413,simpler.health,resell,,,66,17,7,"Spaceship, Inc.",11/04/2026 20:17,11/04/2027 20:17
 124e7d8d-c919-4f28-991c-138eef745b7c,nurses.health,premium,3125,,54,13,6,name.com,,
 12613d4d-d449-481f-ab45-4bf6116b0259,generates.health,available,19.99,,54,2,9,name.com,,
 12639a09-0e27-4fca-a8a2-bc43f95fb4a3,returns.health,available,19.99,,72,16,7,name.com,,
@@ -733,6 +733,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 44af7f8e-d8c5-48df-b244-e7d098499b11,feellike.health,available,19.99,,74,3,9,name.com,,
 44d961de-4724-4d01-b969-51e16c2455cb,unsettles.health,available,19.99,,43,1,9,name.com,,
 44e31687-5832-4942-b4ae-0e1d380cee44,makeovers.health,available,19.99,,62,3,9,name.com,,
+44eeed2f-c497-4daa-8343-4e9274932cc2,Kinder.health,premium,12537.93,,72,54,6,name.com,,
 44f3074d-1f4d-478b-ba43-9c19969527e2,costofbusiness.health,available,19.99,,44,1,16,name.com,,
 44ff6750-59fe-4b7c-b2c3-6dc6d31ac24d,contemplation.health,available,19.99,,66,6,13,name.com,,
 450a2fa4-64d9-4d41-872e-a47ce0ceeba5,manysidedness.health,available,19.99,,64,1,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d69c428-d3ad-495f-b930-14e7c8a1f57d,Icouldeatabrick.health,available,107.98,,50,1,19,namecheap,,
 5d69fb25-764b-4d38-9659-c72edfd59a9e,multipurpose.health,available,19.99,,54,4,13,name.com,,
 5d998166-1517-4a18-8aee-c8f07fd8a5b1,registration.health,available,19.99,,75,19,12,name.com,,
-5d9eb638-c660-408e-a170-9ab81a3d77e7,Ilostmybackpack.health,available,107.98,,50,1,18,namecheap,,
