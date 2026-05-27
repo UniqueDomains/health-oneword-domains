@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .health one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,986 domains · **Median ask:** $241.55 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/health`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | pros.health        | resell    | —          | —             | 53             | 23     | 4      | GoDaddy.com, LLC |
 | systems.health     | premium   | $3,125     | —             | 46             | 27     | 7      | name.com         |
 | Keith.health       | available | $107.98    | —             | 66             | 25     | 5      | namecheap        |
-| plans.health       | resell    | —          | —             | 60             | 20     | 5      | GoDaddy.com, LLC |
+| plans.health       | resell    | —          | —             | 60             | 21     | 5      | GoDaddy.com, LLC |
 | sites.health       | premium   | $1,250     | —             | 53             | 26     | 5      | name.com         |
 | Trex.health        | available | $107.98    | —             | 80             | 24     | 5      | namecheap        |
 | children.health    | resell    | —          | —             | 68             | 19     | 8      | DotHealth LLC    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
