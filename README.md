@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .health one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,986 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,986 domains · **Median ask:** $241.55 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,986 domains · **Median ask:** $324.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/health`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/health`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HEALTH one-word domai
 
 ### Files
 
-- `health.csv` — public CSV extract (1,000 rows)
-- `health.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `health.csv`, public CSV extract (1,000 rows)
+- `health.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| shortcuts.health   | available | $19.99     | —             | 48             | 41     | 10     | name.com         |
-| postbox.health     | resell    | $19.99     | —             | 72             | 17     | 8      | Spaceship, Inc.  |
-| Kinder.health      | premium   | $12,537.93 | —             | 72             | 54     | 6      | name.com         |
-| slots.health       | available | $19.99     | —             | 49             | 31     | 5      | name.com         |
-| tokens.health      | resell    | —          | —             | 51             | 36     | 6      | Spaceship, Inc.  |
-| SanDiego.health    | premium   | $6,250     | —             | 74             | 29     | 9      | name.com         |
-| videos.health      | available | $19.99     | —             | 52             | 30     | 6      | name.com         |
-| destination.health | resell    | —          | —             | 90             | 24     | 11     | NameCheap, Inc.  |
-| Jim.health         | premium   | $1,400     | $84           | 78             | 28     | 3      | namecheap        |
-| gems.health        | available | $19.99     | —             | 70             | 28     | 4      | name.com         |
-| products.health    | resell    | —          | —             | 60             | 23     | 8      | Spaceship, Inc.  |
-| dogs.health        | premium   | $9,375     | —             | 76             | 28     | 4      | name.com         |
-| photos.health      | available | $19.99     | —             | 54             | 28     | 6      | name.com         |
-| pros.health        | resell    | —          | —             | 53             | 23     | 4      | GoDaddy.com, LLC |
-| systems.health     | premium   | $3,125     | —             | 46             | 27     | 7      | name.com         |
-| Keith.health       | available | $107.98    | —             | 66             | 25     | 5      | namecheap        |
-| plans.health       | resell    | —          | —             | 60             | 21     | 5      | GoDaddy.com, LLC |
-| sites.health       | premium   | $1,250     | —             | 53             | 26     | 5      | name.com         |
-| Trex.health        | available | $107.98    | —             | 80             | 24     | 5      | namecheap        |
-| children.health    | resell    | —          | —             | 68             | 19     | 8      | DotHealth LLC    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| boot.health      | available | $19.99    | —             | high           | low    | 4      | name.com         |
+| thanks.health    | resell    | $19.99    | —             | high           | low    | 6      | Spaceship, Inc.  |
+| abc.health       | premium   | $6,500    | $71.50        | high           | medium | 3      | namecheap        |
+| both.health      | available | $19.99    | —             | high           | low    | 4      | name.com         |
+| technique.health | resell    | $19.99    | —             | high           | low    | 9      | Spaceship, Inc.  |
+| ago.health       | premium   | $1,107    | $71.40        | medium         | low    | 3      | namesilo         |
+| brie.health      | available | $19.99    | —             | high           | low    | 4      | name.com         |
+| lightbulb.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc.  |
+| any.health       | premium   | $1,250    | —             | high           | medium | 3      | name.com         |
+| coat.health      | available | $19.99    | —             | high           | low    | 4      | name.com         |
+| bit.health       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| ate.health       | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo         |
+| curl.health      | available | $19.99    | —             | medium         | low    | 4      | name.com         |
+| lab.health       | resell    | —         | —             | high           | medium | 3      | DotHealth LLC    |
+| bae.health       | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo         |
+| dark.health      | available | $89.99    | $103.99       | medium         | medium | 4      | name.com         |
+| aids.health      | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| beg.health       | premium   | $1,107    | $71.40        | medium         | low    | 3      | namesilo         |
+| desk.health      | available | $19.99    | —             | high           | low    | 4      | name.com         |
+| bear.health      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused only on one-word domains in the .health extension. The range is broad: some names are clean and brandable, such as lap.health or awakening.health, while others are harder to position, more negative in tone, or more likely to raise legal questions, such as Microsoft.health. For founders, the best picks are usually short, easy to say, and directly usable without explanation. For investors, the key check is whether the word has clear healthcare relevance or broad commercial appeal at the current ask. With a median ask of 237.79, pricing is accessible enough that wording quality matters more than small price differences.
+This list covers one-word domain names registered under the .health extension, spanning wellness, medical, and lifestyle themes. With a median ask of $324, pricing spans from budget-friendly single-word options to premium, highly brandable names. Sample names such as getphysical.health, toneup.health, and hightech.health illustrate the range of tone — from clinical to consumer-friendly — available within this set. When comparing these domains, weigh asking price against renewal cost, brand clarity, and relevance to a health or wellness offering to identify names that stand out and hold long-term value.
 
-- All domains in this set use the .health extension
-- Median ask across the selection is 237.79
-- Short, clear words tend to be easier to remember
-- Trademark-sensitive terms need extra caution
+- 10,986 one-word .health domains in this selection
+- Median asking price: $324 across the set
+- Names span wellness, medical & lifestyle themes
+- Updated daily to reflect current pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
