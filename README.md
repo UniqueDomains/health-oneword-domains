@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .health one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,117 domains · **Median ask:** $201.51 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/health`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | thanks.health    | resell    | $19.99    | —             | high           | low    | 6      | Spaceship, Inc.  |
 | abc.health       | premium   | $6,500    | $71.50        | high           | medium | 3      | namecheap        |
 | awol.health      | available | $12.98    | $107.98       | low            | low    | 4      | namecheap        |
-| technique.health | resell    | $19.99    | —             | high           | low    | 9      | Spaceship, Inc.  |
+| infrared.health  | resell    | $19.99    | —             | low            | low    | 9      | Spaceship, Inc.  |
 | ago.health       | premium   | $1,107    | $71.40        | medium         | low    | 3      | namesilo         |
 | boot.health      | available | $19.99    | —             | high           | low    | 4      | name.com         |
-| lightbulb.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc.  |
+| technique.health | resell    | $19.99    | —             | high           | low    | 9      | Spaceship, Inc.  |
 | ain.health       | premium   | $1,107    | $71.40        | low            | low    | 3      | namesilo         |
 | both.health      | available | $19.99    | —             | high           | low    | 4      | name.com         |
-| bit.health       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| lightbulb.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc.  |
 | any.health       | premium   | $1,250    | —             | high           | medium | 3      | name.com         |
 | brie.health      | available | $19.99    | —             | high           | low    | 4      | name.com         |
-| lab.health       | resell    | —         | —             | high           | medium | 3      | DotHealth LLC    |
+| bit.health       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
 | ate.health       | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo         |
 | coat.health      | available | $19.99    | —             | high           | low    | 4      | name.com         |
-| aids.health      | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| lab.health       | resell    | —         | —             | high           | medium | 3      | DotHealth LLC    |
 | bae.health       | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo         |
 | curl.health      | available | $19.99    | —             | medium         | low    | 4      | name.com         |
-| bear.health      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| aids.health      | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
