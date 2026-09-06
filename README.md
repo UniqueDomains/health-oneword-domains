@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .health one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,479 domains · **Median ask:** $184.95 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/health`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| medicine.health  | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
 | ague.health      | available | $12.98    | $107.98       | low            | low    | 4      | namecheap        |
 | thanks.health    | resell    | $19.99    | —             | high           | low    | 6      | Spaceship, Inc.  |
 | abc.health       | premium   | $6,500    | $71.50        | high           | medium | 3      | namecheap        |
@@ -84,6 +83,7 @@ print(df.head())
 | lab.health       | resell    | —         | —             | high           | medium | 3      | DotHealth LLC    |
 | bae.health       | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo         |
 | curl.health      | available | $19.99    | —             | medium         | low    | 4      | name.com         |
+| aids.health      | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
