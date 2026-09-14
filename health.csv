@@ -160,7 +160,7 @@ d413af94-5c48-41fb-b032-cf70357e73e4,ametropic.health,available,12.98,107.98,low
 a21677a7-9b06-4b53-90bf-a1a67ac5c74d,ego.health,premium,1107,71.4,medium,low,3,namesilo,,
 220c8a93-785f-417b-b725-f9dc6678c4c5,bestknown.health,available,19.99,,high,low,10,name.com,,
 1e051ac4-b16b-4a59-8446-3135e39e89c4,unimportant.health,available,19.99,,medium,low,11,name.com,,
-85dd4d40-d6a4-43b7-b78b-f6bd371f9759,justice.health,resell,,,high,low,7,"Spaceship, Inc.",30/12/2025 00:02,30/12/2026 00:02
+85dd4d40-d6a4-43b7-b78b-f6bd371f9759,justice.health,resell,,,medium,low,7,"Spaceship, Inc.",30/12/2025 00:02,30/12/2026 00:02
 691c42f1-5754-4cc1-a41e-e097f5598be4,aboral.health,available,12.98,107.98,low,low,6,namecheap,,
 ad75fa7c-46fc-4967-be10-e0e0f532958a,five.health,resell,,,medium,low,4,"Spaceship, Inc.",26/08/2025 20:40,26/08/2026 20:40
 bff8ebe5-ff65-45d5-be55-e845c16aab03,dummy.health,available,89.99,103.99,high,low,5,name.com,,
@@ -239,7 +239,7 @@ eeeb7156-6872-46d0-81a8-7f00dfad430d,pentad.health,available,12.98,107.98,low,lo
 9bde4a1a-59d0-44aa-bb67-e8ef15241a28,showup.health,available,19.99,,high,low,7,name.com,,
 6b0c21ee-681b-40f4-9fe7-443501eb2db6,chiefjustice.health,available,19.99,,medium,low,13,name.com,,
 c824a88f-a7c1-40e9-ad25-14da18122e4b,robed.health,available,12.98,107.98,low,low,5,namecheap,,
-3f749b79-1642-4f19-83c5-90bb9339a031,everybit.health,available,19.99,,medium,low,9,name.com,,
+3f749b79-1642-4f19-83c5-90bb9339a031,everybit.health,available,3.98,107.98,low,low,9,namecheap,,
 f6bcf076-eac4-45e3-9772-9114b9f221c8,barbecued.health,available,12.98,107.98,low,low,9,namecheap,,
 16e77475-f898-419c-8d11-869468fad199,comeinto.health,available,19.99,,high,low,9,name.com,,
 e1bb725a-b31a-4751-bc51-b23a405b06da,archaist.health,available,12.98,107.98,low,low,8,namecheap,,
