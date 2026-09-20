@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 39e57bd9-e2cd-40fe-9de7-b271b2dd62ca,mingle.health,available,89.99,103.99,medium,low,6,name.com,,,
 0a6e3f1c-fb5e-4734-9029-e7e3028b8af0,environmental.health,premium,3250,71.5,high,low,13,namecheap,,,
-d3b6a39a-d0f6-4c46-9805-d3ec2014e7f4,YubaCity.health,available,19.99,,low,low,9,name.com,,,
+d3b6a39a-d0f6-4c46-9805-d3ec2014e7f4,yubacity.health,available,19.99,,low,low,9,name.com,,,
 189e7cef-1672-47eb-8535-1bf1ee31a785,battered.health,available,19.99,,medium,low,8,name.com,,,
 49bb90eb-87f6-4493-bf13-00699cbce5a4,tks.health,premium,1107,71.4,high,low,3,namesilo,,,
 c6712f99-97a5-43a1-ad82-14b86793a325,stuffy.health,available,12.98,107.98,low,low,6,namecheap,,,
@@ -20,7 +20,7 @@ c30e4cbb-00ff-441e-8f84-4dcf4672c8a3,gram.health,resell,,,medium,low,4,"Spaceshi
 9d8bcf30-de16-4264-aaa9-00e04607b2ec,bytheway.health,available,19.99,,medium,low,10,name.com,,,
 4a11672a-10f0-4769-b86f-79c1dc2e1c86,entranced.health,available,12.98,107.98,low,low,9,namecheap,,,09/08/2026 10:11
 277928dd-2855-44ed-86dd-7bf9a7d54aa6,leisure.health,available,19.99,,high,low,7,name.com,,,
-eb686b33-6a05-4297-a840-6453c62aec46,enemy.health,available,3.98,107.98,low,low,5,namecheap,,,15/09/2026 01:14
+eb686b33-6a05-4297-a840-6453c62aec46,enemy.health,available,77.99,77.99,low,low,5,namesilo,,,19/09/2026 10:02
 d68c5b63-63f6-40ed-9c0a-9a94d6d23863,lettuce.health,premium,250,,high,low,7,name.com,,,
 9d500bbe-31cd-4b54-ba44-e0b0556162de,videochat.health,available,19.99,,medium,low,10,name.com,,,
 c6f929a8-56ec-4aea-b45e-4ae40b491a1b,paying.health,available,19.99,,high,low,6,name.com,,,
@@ -78,7 +78,7 @@ fca09b63-420f-4d83-adc8-8ad45675c2e7,painted.health,available,19.99,,medium,low,
 3f8d4ee5-2fd2-4527-a071-f83f68c28deb,ascitic.health,available,12.98,107.98,low,low,7,namecheap,,,07/08/2026 01:06
 876f2150-a4b8-486c-b2ee-368a77150269,determine.health,available,19.99,,high,low,9,name.com,,,
 84017773-320f-4806-9186-1ae5ec44d079,detecting.health,available,19.99,,medium,low,9,name.com,,,
-e39d356e-1491-4e56-be57-e236703bebfd,Cadillac.health,available,19.99,,high,low,8,name.com,,,
+e39d356e-1491-4e56-be57-e236703bebfd,cadillac.health,available,19.99,,high,low,8,name.com,,,
 5e769541-9ffc-407f-88e9-5293e31097db,adobe.health,available,19.99,,high,high,5,name.com,,,
 77182e24-c062-41b0-b4c2-b53219ecee81,despite.health,available,19.99,,high,low,7,name.com,,,
 edd48d09-7397-4d37-a758-1a707c4c2447,beborn.health,available,19.99,,medium,low,7,name.com,,,
@@ -93,7 +93,7 @@ a13454a6-4252-4450-bba5-a2e99825eba6,chief.health,available,19.99,,high,low,5,na
 40d5172f-6e83-4192-aed8-28b9de845dca,slushy.health,available,12.98,107.98,low,low,6,namecheap,,,09/08/2026 01:25
 19804768-daf6-4c25-a18b-569e7599c102,reporting.health,available,19.99,,medium,low,9,name.com,,,
 e6e7fccb-9a2c-4588-9b87-62e60a6f49b3,whattheheck.health,available,19.99,,low,low,13,name.com,,,
-c02a97d2-3774-4537-bbb9-4e92e1145d7f,Iwillyeah.health,available,19.99,,medium,low,11,name.com,,,
+c02a97d2-3774-4537-bbb9-4e92e1145d7f,iwillyeah.health,available,19.99,,medium,low,11,name.com,,,
 8b69e009-523d-4456-a863-c0fade50142c,double.health,resell,,,high,low,6,"GoDaddy.com, LLC",15/02/2022 00:55,15/02/2027 00:55,
 dcd93c5e-255a-439b-b511-78c003c9b168,nervous.health,premium,3125,103.99,medium,low,7,name.com,,,
 e105cdc0-a348-4f55-a20e-6c2cabafe67f,amino.health,resell,,,low,low,5,"GoDaddy.com, LLC",07/11/2023 19:50,07/11/2026 19:50,
@@ -126,12 +126,12 @@ aab2212d-124c-485a-ac2b-0fad731974a2,teeth.health,resell,,,high,low,5,"GoDaddy.c
 df2fe998-0e9a-49ec-ac56-1dfa248c418d,publicschool.health,premium,250,,high,low,13,name.com,,,
 b9ad241d-c1b4-4c7f-b848-21a92767e8f3,releasecandidate.health,available,19.99,,high,low,17,name.com,,,
 d2586077-92f6-41fc-98fe-7bb8217979c3,experimentally.health,available,19.99,,medium,low,14,name.com,,,
-f24e15b0-5267-4607-bcb2-4065df0e4765,nutritious.health,premium,650,78,medium,low,10,namecheap,,,12/09/2026 19:02
+f24e15b0-5267-4607-bcb2-4065df0e4765,nutritious.health,premium,640,71.4,medium,low,10,namesilo,,,19/09/2026 11:02
 f06c463c-c470-4710-8b43-ebf7428eee4e,absolutist.health,available,12.98,107.98,low,low,10,namecheap,,,
 58bd5846-6648-4a77-a166-04266e047455,metric.health,resell,,,high,low,6,Dynadot Inc,13/01/2026 00:00,13/01/2027 00:00,
 0381870c-0f5f-4ec7-9907-1a6857039d5c,xcl.health,premium,1107,71.4,low,low,3,namesilo,,,
 c50bea73-2206-400f-9410-73f0b4872de4,publicly.health,available,19.99,,medium,low,8,name.com,,,
-9b0b977c-727d-4dba-b707-e1837f52b407,Fairs.health,available,19.99,,high,low,5,name.com,,,
+9b0b977c-727d-4dba-b707-e1837f52b407,fairs.health,available,19.99,,high,low,5,name.com,,,
 4d6b7bdb-a0b1-467b-8f73-a3fa9a043f10,silver.health,resell,,,medium,low,6,Dynadot Inc,24/01/2024 13:20,24/01/2027 13:20,
 a260318b-b8b6-4586-856c-0b4d5386a8cc,adrenal.health,premium,625,108.99,low,low,7,name.com,,,
 0d9c7f4b-42d0-4ca4-b9f5-b1b8bf87fcd3,fascinate.health,available,19.99,,high,low,9,name.com,,,
@@ -141,10 +141,10 @@ e63c11cb-204a-4687-b7c0-cda3441643e3,grandslam.health,available,19.99,,high,low,
 380af1ed-916a-409c-ac21-412be919a55a,omnipotent.health,available,12.98,107.98,low,low,10,namecheap,,,
 22b4d390-8c30-4e1d-aa20-e73b4e2f3c49,buttons.health,available,19.99,,high,low,7,name.com,,,
 8acfb741-dd5f-4470-864e-3de852ac6f4c,passcode.health,available,19.99,,high,low,8,name.com,,,
-0c8d7e69-9132-4361-ae4b-f431a8e492c3,McDonald.health,available,,,high,low,8,,,,
+0c8d7e69-9132-4361-ae4b-f431a8e492c3,mcdonald.health,available,,,high,low,8,,,,
 69ce56f0-6fd5-49f3-86b4-d96c2c998489,convene.health,available,,,high,low,7,,,,
 03e3e629-c1e6-45c9-94ba-6e9c80e7e9ae,unnatural.health,available,12.98,107.98,low,low,9,namecheap,,,
-ca22a340-e987-4d5b-a38d-303d696dfc45,Martha.health,available,19.99,,high,low,6,name.com,,,
+ca22a340-e987-4d5b-a38d-303d696dfc45,martha.health,available,19.99,,high,low,6,name.com,,,
 b7fc99df-280e-457e-817a-c5ac78fda89c,yell.health,available,19.99,,medium,low,4,name.com,,,
 3987bcd6-139d-4243-b1f2-e0f8781a0ec1,died.health,available,19.99,,medium,low,4,name.com,,,
 166db3be-18c2-4fe0-94dd-db135be50500,sweetwhiskey.health,available,19.99,,low,low,13,name.com,,,
@@ -160,7 +160,7 @@ d413af94-5c48-41fb-b032-cf70357e73e4,ametropic.health,available,12.98,107.98,low
 a21677a7-9b06-4b53-90bf-a1a67ac5c74d,ego.health,premium,1107,71.4,medium,low,3,namesilo,,,
 220c8a93-785f-417b-b725-f9dc6678c4c5,bestknown.health,available,19.99,,high,low,10,name.com,,,
 1e051ac4-b16b-4a59-8446-3135e39e89c4,unimportant.health,available,19.99,,medium,low,11,name.com,,,
-85dd4d40-d6a4-43b7-b78b-f6bd371f9759,justice.health,resell,,,medium,low,7,"Spaceship, Inc.",30/12/2025 00:02,30/12/2026 00:02,14/09/2026 03:52
+85dd4d40-d6a4-43b7-b78b-f6bd371f9759,justice.health,resell,,,medium,low,7,"Spaceship, Inc.",30/12/2025 00:02,30/12/2026 00:02,19/09/2026 10:07
 691c42f1-5754-4cc1-a41e-e097f5598be4,aboral.health,available,12.98,107.98,low,low,6,namecheap,,,
 ad75fa7c-46fc-4967-be10-e0e0f532958a,five.health,resell,,,medium,low,4,"Spaceship, Inc.",26/08/2025 20:40,26/08/2026 20:40,
 bff8ebe5-ff65-45d5-be55-e845c16aab03,dummy.health,available,89.99,103.99,high,low,5,name.com,,,
@@ -175,7 +175,7 @@ e11243d9-31c1-40ac-b86e-40548a49fee5,boston.health,resell,,,high,low,6,DotHealth
 6de51a93-b749-47ae-9f75-f5d693d7f191,worker.health,premium,1107,71.4,high,low,6,namesilo,,,
 e12586e4-51b7-404a-9759-c437c6637c71,allthetime.health,available,19.99,,medium,low,12,name.com,,,
 f0c3231e-9902-4c1d-a27b-e585c7d6c065,dong.health,available,19.99,,medium,low,4,name.com,,,
-b8e0679c-6d39-405a-b4f8-97f6265e9dad,reddish.health,available,3.98,107.98,low,low,7,namecheap,,,08/09/2026 04:19
+b8e0679c-6d39-405a-b4f8-97f6265e9dad,reddish.health,available,77.99,77.99,low,low,7,namesilo,,,19/09/2026 03:49
 32688be7-d62b-4baa-887a-2de6c98ff0b9,wedding.health,available,19.99,,high,low,7,name.com,,,
 80ceea0a-7fa7-4651-8bca-404ec834048e,under.health,available,19.99,,high,low,5,name.com,,,
 a06930f8-4f93-4333-b6cb-345ca6ff5384,trafficlights.health,available,19.99,,low,low,14,name.com,,,
@@ -200,7 +200,7 @@ a5a4342b-5591-440e-b618-af656c4688cd,firstgrade.health,available,19.99,,high,low
 bbba90ef-b251-4ae5-a66b-f11e15b13ba6,affixial.health,available,12.98,107.98,low,low,8,namecheap,,,
 d3a840c7-91d2-4a52-9e84-281b6825fbaa,assessable.health,available,19.99,108.99,low,low,10,name.com,,,07/08/2026 06:04
 0d7c2680-dcce-4d7e-814a-3ffc5d13690b,wrongly.health,available,19.99,,medium,low,7,name.com,,,
-77f5784d-5ab1-47a9-bc40-abd72770e1fd,Englishmuffin.health,available,19.99,,high,low,14,name.com,,,
+77f5784d-5ab1-47a9-bc40-abd72770e1fd,englishmuffin.health,available,19.99,,high,low,14,name.com,,,
 c30072f2-1a1d-4534-90ec-ebcf9ac3e63c,disorganised.health,available,19.99,,medium,low,12,name.com,,,
 6bf20708-ab1f-4570-8f29-a77df7651766,juice.health,premium,3125,,high,low,5,name.com,,,
 e5836565-7953-4d08-b9f9-02db9f13701a,debt.health,premium,1250,,high,low,4,name.com,,,
@@ -229,11 +229,11 @@ e59dca63-86ca-4a86-b870-f63cb760348b,antiracist.health,available,19.99,,high,low
 00922cee-2213-46ef-bf61-280873abf734,minutes.health,available,19.99,,high,low,7,name.com,,,
 fc201615-16ce-46e3-9794-886efc98bc1c,aircooled.health,available,12.98,107.98,low,low,10,namecheap,,,
 a5aee147-3389-4171-84d8-650e372e5e69,naturalgas.health,available,19.99,,low,low,11,name.com,,,
-2007c588-887a-431b-b027-ed9eee5bdedf,BlackFriday.health,available,19.99,,high,low,12,name.com,,,
-5e9529aa-b1ff-47b2-87a4-ca878efdfaec,Barbiepink.health,available,19.99,,high,low,11,name.com,,,
+2007c588-887a-431b-b027-ed9eee5bdedf,blackfriday.health,available,19.99,,high,low,12,name.com,,,
+5e9529aa-b1ff-47b2-87a4-ca878efdfaec,barbiepink.health,available,19.99,,high,low,11,name.com,,,
 8a43373b-1794-49af-b60b-3e4a2291d440,whilst.health,available,19.99,,medium,low,6,name.com,,,
-83bc00bd-1217-4564-8405-9c6c0666fceb,rolling.health,available,3.98,107.98,low,low,7,namecheap,,,13/09/2026 03:13
-d346aed3-dee7-4a56-89d5-e7286ed3b201,brand.health,resell,,,medium,medium,5,Dynadot Inc,06/10/2023 10:27,06/10/2027 10:27,
+83bc00bd-1217-4564-8405-9c6c0666fceb,rolling.health,available,77.99,77.99,low,low,7,namesilo,,,19/09/2026 06:51
+d346aed3-dee7-4a56-89d5-e7286ed3b201,brand.health,resell,,,low,low,5,Dynadot Inc,06/10/2023 10:27,06/10/2027 10:27,20/09/2026 03:17
 eeeb7156-6872-46d0-81a8-7f00dfad430d,pentad.health,available,12.98,107.98,low,low,6,namecheap,,,
 9bde4a1a-59d0-44aa-bb67-e8ef15241a28,showup.health,available,19.99,,high,low,7,name.com,,,
 6b0c21ee-681b-40f4-9fe7-443501eb2db6,chiefjustice.health,available,19.99,,medium,low,13,name.com,,,
@@ -258,7 +258,7 @@ aace5b4a-2356-40a1-b756-72e3ca24a000,somesing.health,available,19.99,,medium,low
 77044ea1-fbd6-4ecc-b515-647c9302d3c8,eonian.health,available,12.98,107.98,low,low,6,namecheap,,,
 69bccd27-4d88-4b72-bc30-6b24abb4eea0,cattower.health,available,19.99,,high,low,9,name.com,,,
 13a66aa7-bd5d-4110-8fed-cd72aca73035,bankable.health,available,12.98,107.98,medium,low,8,namecheap,,,08/08/2026 13:24
-d67a9ab3-756c-420f-9e01-d01579750893,Frenchloaf.health,available,19.99,,high,low,11,name.com,,,
+d67a9ab3-756c-420f-9e01-d01579750893,frenchloaf.health,available,19.99,,high,low,11,name.com,,,
 1feb5a16-41d9-46eb-b941-e3b1614a95e9,bowlegged.health,available,12.98,107.98,low,low,9,namecheap,,,08/08/2026 11:55
 0f7cf459-29e2-411b-8e29-129a198b7b29,addition.health,available,19.99,,high,low,8,name.com,,,
 a26fb458-fc51-44c1-a585-a45015096b63,welltimed.health,available,,,medium,low,10,,,,
@@ -267,14 +267,14 @@ a26fb458-fc51-44c1-a585-a45015096b63,welltimed.health,available,,,medium,low,10,
 6b0cdf14-397d-4447-a7c8-940b9abe21cf,countries.health,premium,1250,,medium,low,9,name.com,,,
 d728be66-9350-4db9-b3e0-9c005a5b6e00,shift.health,resell,,,high,medium,5,"GoDaddy.com, LLC",28/01/2025 00:00,28/01/2028 00:00,
 4aa76a2f-3e45-44d5-8728-2433e1c075ca,pretend.health,available,19.99,,high,low,7,name.com,,,
-96171634-43c3-460c-8ae0-2e6939a7c78d,Frenchpie.health,available,19.99,,medium,low,10,name.com,,,
+96171634-43c3-460c-8ae0-2e6939a7c78d,frenchpie.health,available,19.99,,medium,low,10,name.com,,,
 112369f3-008f-46d3-93d8-8d89a03b64a1,thankyou.health,available,19.99,,high,low,9,name.com,,,
 d20bdd67-9d69-487c-90ee-6b569a15a660,byebye.health,available,19.99,,high,low,7,name.com,,,
 57799c97-423f-40e8-b2f1-e357c24667ad,musthave.health,available,19.99,,high,low,9,name.com,,,
 1fbe9cbb-abb0-4f38-88fe-e0684c734669,college.health,premium,3125,,high,low,7,name.com,,,
 03a9ca34-381e-4b01-a120-45ca4b1f39f7,corona.health,premium,242,71.4,high,medium,6,namesilo,,,
 35da5f32-5ffa-4d31-b0ba-280d7c424a7d,thousand.health,available,89.99,103.99,high,low,8,name.com,,,
-df4c4e78-a0bc-4e66-8ab6-c913aedb6d9d,news.health,resell,,,high,medium,4,"GoDaddy.com, LLC",08/11/2023 00:00,08/11/2026 00:00,
+df4c4e78-a0bc-4e66-8ab6-c913aedb6d9d,news.health,resell,,,medium,low,4,"GoDaddy.com, LLC",08/11/2023 00:00,08/11/2026 00:00,20/09/2026 02:58
 aa906450-98a5-4845-940a-90459c9ba56e,ding.health,available,19.99,,medium,low,4,name.com,,,
 9a6747ba-846c-4489-b6b1-80c73f8841be,fervid.health,available,12.98,107.98,low,low,6,namecheap,,,06/08/2026 16:19
 10eee3bd-d8e8-441b-a576-7456a9fbad09,ate.health,premium,1107,71.4,high,low,3,namesilo,,,
@@ -286,7 +286,7 @@ bced8d9f-d21e-4d86-a3d0-bcf753a4ad37,ascetic.health,available,12.98,107.98,low,l
 0c4b038e-ef12-4a3e-8863-018b76924206,baculiform.health,available,12.98,107.98,low,low,10,namecheap,,,08/08/2026 05:01
 e2785710-230a-4941-ab42-f74bfe4c9189,pharmacist.health,resell,,,high,low,10,DotHealth LLC,30/07/2024 16:09,30/07/2026 16:09,
 a7a0feaa-722f-4b7f-86d5-330b4307d1ed,ruin.health,available,12.98,107.98,low,low,4,namecheap,,,08/08/2026 13:39
-ca4967ca-cab7-43d8-a251-7c19170540cf,Europeanhedgehog.health,available,19.99,,medium,low,17,name.com,,,
+ca4967ca-cab7-43d8-a251-7c19170540cf,europeanhedgehog.health,available,19.99,,medium,low,17,name.com,,,
 d92bbf5f-c41b-47c1-bbbc-fe889be9f728,ain.health,premium,1107,71.4,low,low,3,namesilo,,,
 8cac780e-ce35-443c-a9dc-a796572e3343,syndrome.health,available,19.99,,medium,low,8,name.com,,,
 1806d1a6-797a-48df-a959-3601f51800f8,influence.health,resell,,,medium,low,9,"Spaceship, Inc.",02/02/2026 00:09,02/02/2027 00:09,08/09/2026 08:44
@@ -295,9 +295,9 @@ c9dd800a-41ce-491d-8ff7-24b383123ff7,makemoney.health,available,19.99,,high,low,
 bea6bc4a-48dc-4619-ac92-b8f978dda1fc,yearly.health,available,19.99,,high,low,6,name.com,,,
 fa1e24ec-4f72-4ce4-9d53-e149c34a8ab3,thunder.health,available,19.99,,medium,low,7,name.com,,,
 f9cd6478-af34-414f-bb71-a9ac1df7f4dd,aguish.health,available,12.98,107.98,low,low,6,namecheap,,,
-23555841-26f6-4ba4-be63-c7f9c08008a2,Ihaveatemperature.health,available,19.99,,medium,low,20,name.com,,,
+23555841-26f6-4ba4-be63-c7f9c08008a2,ihaveatemperature.health,available,19.99,,medium,low,20,name.com,,,
 5a79c51f-e4e2-4484-91f7-608047bbbc42,inshape.health,available,19.99,,high,low,8,name.com,,,
-bbdd94ef-368a-4b1c-adf1-d4bd589cff97,Philippines.health,available,,,low,low,11,,,,
+bbdd94ef-368a-4b1c-adf1-d4bd589cff97,philippines.health,available,,,low,low,11,,,,
 2ce07ce9-f922-42ee-a7e0-5525a7988747,coy.health,premium,1250,103.99,medium,low,3,name.com,,,
 20447f5c-56cc-4355-b010-3903c85c0e77,fillout.health,available,3.79,77.99,low,low,8,namesilo,,,17/08/2026 23:11
 a787d19d-dadc-4576-b852-30636a31115d,holding.health,available,19.99,,high,low,7,name.com,,,
@@ -309,15 +309,15 @@ e0fdade3-d56a-4037-ac0c-6c845bff6ead,beforehand.health,available,,,medium,low,10
 524d918f-a282-4921-bd09-10b201d7838c,detest.health,available,19.99,,medium,low,6,name.com,,,
 7d6948b5-e359-4574-99a0-11cac0042cd2,giveout.health,available,19.99,,medium,low,8,name.com,,,
 07b86608-1408-45e6-8a04-df452843630a,keepinmind.health,available,19.99,,high,low,12,name.com,,,
-3dcfbeac-bd1c-4422-b3f5-230a119f9b5e,generated.health,available,3.98,107.98,low,low,9,namecheap,,,15/09/2026 02:38
+3dcfbeac-bd1c-4422-b3f5-230a119f9b5e,generated.health,available,77.99,77.99,low,low,9,namesilo,,,19/09/2026 12:09
 12a0c51c-61fb-4886-ac8f-11af1d5709bf,anadromous.health,available,12.98,107.98,low,low,10,namecheap,,,
 39d94749-4768-40b7-9b39-c58eb2f4a268,entitled.health,available,19.99,,medium,low,8,name.com,,,
 1a3520af-175e-4203-b508-3d94cf43ea2b,steeltoeboot.health,available,19.99,,high,low,14,name.com,,,
-359c69ea-b96b-4812-a52d-02bc4a3b5376,Onions.health,premium,242,71.4,medium,low,6,namesilo,,,
+359c69ea-b96b-4812-a52d-02bc4a3b5376,onions.health,premium,242,71.4,medium,low,6,namesilo,,,
 20274741-fe60-4ba3-8119-0e114fbd269e,tailend.health,available,12.98,107.98,low,low,8,namecheap,,,09/08/2026 11:36
 318d8046-5827-4462-8608-4a5b14ea9d93,unlimited.health,resell,,,high,low,9,"Sav.com, LLC - 3",25/09/2025 00:00,25/09/2026 00:00,
 c13a1e7f-e1fc-4cde-8825-de1d91120814,middle.health,available,19.99,,high,low,6,name.com,,,
-59b57128-6691-4f38-afa1-de5ca04c7195,midOctober.health,available,19.99,,high,low,11,name.com,,,
+59b57128-6691-4f38-afa1-de5ca04c7195,midoctober.health,available,19.99,,high,low,11,name.com,,,
 3388f44e-989c-403c-a354-761030db8b91,pinkgold.health,available,19.99,,low,low,9,name.com,,,
 02e97155-7902-4162-b93f-ef84bffca72d,many.health,available,19.99,,high,low,4,name.com,,,
 9479a91e-893f-4016-a488-822a5de49926,streetcrime.health,available,19.99,,low,low,12,name.com,,,
@@ -387,7 +387,7 @@ ddc9336d-80b4-4ac5-8119-9b861b1832e6,amateurish.health,available,12.98,107.98,lo
 5454e06d-9adb-4f6e-9d2e-1924bb02ce48,xvii.health,available,89.99,103.99,medium,low,4,name.com,,,
 9951e305-72cb-4860-925e-ce1707267cab,primarytooth.health,available,19.99,,low,low,13,name.com,,,
 fbe7fadc-8e5f-4cf6-9f19-f7e28e908da0,formalize.health,available,19.99,,high,low,9,name.com,,,
-cc4211ec-68c3-4e09-acdf-f6796bf0d745,AsianTiger.health,available,19.99,,medium,low,11,name.com,,,
+cc4211ec-68c3-4e09-acdf-f6796bf0d745,asiantiger.health,available,19.99,,medium,low,11,name.com,,,
 aa3041c5-167e-4f2a-bba1-d731418bce6a,told.health,available,19.99,,low,low,4,name.com,,,
 d3c837ce-3d16-42df-ab30-e80356d82a5a,dvd.health,premium,1107,71.4,high,low,3,namesilo,,,
 758216c8-3acf-4e70-888f-25272fa8acb7,allowed.health,available,19.99,,high,low,7,name.com,,,
@@ -399,14 +399,14 @@ d3c837ce-3d16-42df-ab30-e80356d82a5a,dvd.health,premium,1107,71.4,high,low,3,nam
 166deac8-a434-4b33-a7ea-2729e09187c8,acidotic.health,available,12.98,107.98,low,low,8,namecheap,,,
 cb59613d-9977-41d6-90fa-733b6132fe80,autosomal.health,available,12.98,107.98,low,low,9,namecheap,,,07/08/2026 21:02
 9b44b9af-abd9-436f-b3d2-31d4390a80a1,aphoristic.health,available,12.98,107.98,low,low,10,namecheap,,,05/08/2026 23:31
-98298579-aa52-46a5-bd06-ec76919ce9e6,pizza.health,premium,3250,78,medium,medium,5,namecheap,,,15/09/2026 01:18
+98298579-aa52-46a5-bd06-ec76919ce9e6,pizza.health,premium,3450,71.4,medium,low,5,namesilo,,,19/09/2026 05:58
 7084672d-5d56-495c-b6ac-cbb77c6c8484,redhot.health,available,19.99,,high,low,7,name.com,,,
 1fe0aa87-4501-450a-8de8-f558cc8f91d3,ironic.health,available,19.99,,high,low,6,name.com,,,
 d7eb55ec-65ef-45c4-8363-b7c04f851235,bahrain.health,available,,,medium,low,7,,,,
 08e31527-bb36-4c61-bf6f-fa05c985c853,unconvinced.health,available,19.99,,medium,low,11,name.com,,,
 561b8483-1e8e-46fb-9f11-533735273d4b,aliform.health,available,12.98,107.98,low,low,7,namecheap,,,
 43e0e7d9-9280-46c6-885f-1a33d85e1750,contrasting.health,available,19.99,,medium,low,11,name.com,,,
-aa3e554a-b74e-4d3d-ad4c-4f1b92867ee1,Lordloveyou.health,available,19.99,,medium,low,13,name.com,,,
+aa3e554a-b74e-4d3d-ad4c-4f1b92867ee1,lordloveyou.health,available,19.99,,medium,low,13,name.com,,,
 9e7087d8-a75e-4d96-89e3-84bb66588d4c,boomorbust.health,available,19.99,,high,low,12,name.com,,,
 1fccd8c1-cdbf-41d2-8dd9-9239f88c69f1,situation.health,available,19.99,,high,low,9,name.com,,,
 3bb8c268-57dd-45eb-9a50-d2ba02fbfead,havesomeonethere.health,available,19.99,,medium,low,18,name.com,,,
@@ -451,15 +451,15 @@ beea2ade-8611-4d38-8a88-3f1426b5987b,trained.health,available,19.99,,high,low,7,
 d11c1fc0-97f6-40e1-9c08-bb410df2f6bd,workings.health,available,19.99,,high,low,8,name.com,,,
 6a7f269d-909b-455b-a019-ff185d2626b1,alkylic.health,available,12.98,107.98,low,low,7,namecheap,,,
 6e8189c0-e373-4fcc-b269-a1372ca3eb98,keytothecity.health,available,19.99,,high,low,15,name.com,,,
-7f2baf69-4ef0-43b8-9df6-6ebc0ef09645,AOL.health,available,,,high,low,3,,,,
+7f2baf69-4ef0-43b8-9df6-6ebc0ef09645,aol.health,available,,,high,low,3,,,,
 54ced88a-ad80-4aa0-aa78-2914c22adcd6,thisminute.health,available,19.99,,low,low,11,name.com,,,
-3d8694c8-436c-4e70-973e-8589c2c9f0e1,HarleyDavidson.health,available,19.99,,high,low,15,name.com,,,
+3d8694c8-436c-4e70-973e-8589c2c9f0e1,harleydavidson.health,available,19.99,,high,low,15,name.com,,,
 b7567a2f-003c-435e-9491-608ebf275bb7,angled.health,available,12.98,107.98,low,low,6,namecheap,,,
 cdf0e672-763b-4e80-aac0-2488c67b7fa3,inexorable.health,available,12.98,107.98,low,low,10,namecheap,,,
 cee89851-20e0-44a6-86c5-847baf8b5357,anthropoid.health,available,12.98,107.98,low,low,10,namecheap,,,
 1a1df2b3-d24a-44bf-a4db-c796c3d9ad82,smartly.health,available,19.99,,high,low,7,name.com,,,
 1aa19854-0540-4ab1-882c-437e567cb99b,obtuse.health,available,89.99,103.99,high,low,6,name.com,,,
-52fc5507-94d2-416e-9b70-7b4ee05be018,UML.health,premium,1107,71.4,high,low,3,namesilo,,,
+52fc5507-94d2-416e-9b70-7b4ee05be018,uml.health,premium,1107,71.4,high,low,3,namesilo,,,
 65ab8a54-a280-4458-9eed-0720bec85e9b,astronomic.health,available,12.98,107.98,low,low,10,namecheap,,,07/08/2026 10:10
 5926117b-84c3-438f-9d09-503c69cfd3e9,namely.health,available,19.99,,medium,low,6,name.com,,,
 8bdf64e9-11a2-422e-99f9-c3c1abd538a3,element.health,resell,,,high,low,7,"Spaceship, Inc.",08/06/2025 02:16,08/06/2026 02:16,
@@ -472,7 +472,7 @@ cee89851-20e0-44a6-86c5-847baf8b5357,anthropoid.health,available,12.98,107.98,lo
 9788986f-b723-4036-b2a1-42ca536446d5,gotothetoilet.health,available,19.99,,medium,low,16,name.com,,,
 ba7ca769-aef3-4d86-955e-b74c4e918866,chair.health,available,19.99,,medium,low,5,name.com,,,
 a6bbffc2-43ee-4081-b251-5fefffd106b1,bailable.health,available,12.98,107.98,low,low,8,namecheap,,,08/08/2026 08:47
-70fd4e0c-7836-4b6b-8728-a9f8c902b943,BigFour.health,available,19.99,,medium,low,8,name.com,,,
+70fd4e0c-7836-4b6b-8728-a9f8c902b943,bigfour.health,available,19.99,,medium,low,8,name.com,,,
 37cc2420-c418-4f83-9c11-3cb87faa8bab,teddybear.health,available,19.99,,high,low,10,name.com,,,
 2d5a10aa-45ac-4410-aad4-b9aa6e36eaf0,welfarecheck.health,available,19.99,,medium,low,13,name.com,,,
 8a1b3f6e-8756-4611-abd1-cb0b0338efca,indentured.health,available,12.98,107.98,low,low,10,namecheap,,,06/08/2026 08:34
@@ -557,10 +557,10 @@ f57bd871-9ca3-4d06-8e5d-4786f1dfad3f,wideopen.health,available,19.99,,medium,low
 379132ac-76f2-4b22-8ac5-d01333db619e,political.health,premium,1300,71.5,high,low,9,namecheap,,,
 61f3e16f-9d49-40cc-aad1-3a6d14437710,bear.health,resell,,,high,low,4,"Spaceship, Inc.",30/08/2025 04:04,30/08/2026 04:04,
 2d30a28f-d956-4dd7-a0ee-bed40db0dd0f,childhood.health,premium,1107,71.4,high,low,9,namesilo,,,
-5270093f-4fe5-4ad9-9583-32cfb26cce5f,WestVirginia.health,premium,6250,,low,low,13,name.com,,,
+5270093f-4fe5-4ad9-9583-32cfb26cce5f,westvirginia.health,premium,6250,,low,low,13,name.com,,,
 721c0eca-6ad0-4aac-a6e9-d095be1b730f,lab.health,resell,,,high,medium,3,DotHealth LLC,30/07/2024 16:09,30/07/2026 16:09,
 02c598dc-165b-465d-9b06-cb5b2f1b45b5,intheair.health,available,3.98,107.98,low,low,10,namecheap,,,15/09/2026 05:25
-f678bed6-2b72-482a-a7cb-7c71804de363,Shakira.health,available,19.99,,high,low,7,name.com,,,
+f678bed6-2b72-482a-a7cb-7c71804de363,shakira.health,available,19.99,,high,low,7,name.com,,,
 1cc60227-d6ed-4bbe-b120-d1c100be3b79,crabby.health,available,12.98,107.98,low,low,6,namecheap,,,08/08/2026 07:43
 cfed8311-5ed9-4251-8fa3-2be6e70800d0,goodbooks.health,available,19.99,,high,low,10,name.com,,,
 cf7ed19a-a31d-4564-a73b-6e7c7dc9827f,diskdrive.health,available,19.99,,high,low,10,name.com,,,
@@ -611,16 +611,16 @@ dfe958ec-6a32-4be2-b3c6-20e53ae54edd,streetlight.health,available,19.99,,low,low
 a1f116c9-1edc-48fe-b302-30778327f555,accounted.health,available,19.99,,medium,low,9,name.com,,,
 a7396b57-6cc9-48c2-b70d-d8ba4a99ac84,reasonably.health,available,19.99,,medium,low,10,name.com,,,
 c200c7d4-911a-4e21-97f6-409e873ce7d2,aeriferous.health,available,12.98,107.98,low,low,10,namecheap,,,
-65dbf733-c1e4-4f2f-b0ed-4736f2f4f365,medicine.health,resell,,,high,low,8,"GoDaddy.com, LLC",07/11/2023 23:41,07/11/2026 23:41,
+65dbf733-c1e4-4f2f-b0ed-4736f2f4f365,medicine.health,resell,,,medium,low,8,"GoDaddy.com, LLC",07/11/2023 23:41,07/11/2026 23:41,20/09/2026 02:42
 2dd48fd9-7d49-43ea-b5f8-7dc862b30941,redo.health,available,19.99,,high,low,4,name.com,,,
 af16394c-2d26-4f03-8531-bcfd0f5ab9ae,abulic.health,available,12.98,107.98,low,low,6,namecheap,,,
 b8a4ce6c-8a4b-43b0-aaf7-04b11b111914,majorleague.health,available,19.99,,high,low,12,name.com,,,
 121e8aa4-6826-470b-a549-d158dcde717a,nomanisanisland.health,available,19.99,,medium,low,19,name.com,,,
-fbafe842-bf0e-4f59-b1c0-c103a06e8034,test.health,resell,,,high,high,4,"GoDaddy.com, LLC",08/11/2023 01:30,08/11/2026 01:30,
+fbafe842-bf0e-4f59-b1c0-c103a06e8034,test.health,resell,,,medium,low,4,"GoDaddy.com, LLC",08/11/2023 01:30,08/11/2026 01:30,19/09/2026 10:44
 61207c12-cfaf-4642-8c0f-ecec120997fb,critically.health,available,19.99,,medium,low,10,name.com,,,
 06fb004e-25a4-4698-8302-47e8acf1da8e,makeitbig.health,available,19.99,,medium,low,11,name.com,,,
 5823e20c-07f8-4575-b43d-625188330f6e,chicken.health,premium,3125,,medium,low,7,name.com,,,
-bc68df67-6066-4aa3-984a-076187aa58cb,uniform.health,resell,,,medium,low,7,"GoDaddy.com, LLC",12/05/2026 03:00,12/05/2027 03:00,12/09/2026 03:44
+bc68df67-6066-4aa3-984a-076187aa58cb,uniform.health,resell,,,medium,low,7,"GoDaddy.com, LLC",12/05/2026 03:00,12/05/2027 03:00,19/09/2026 05:41
 215deffc-f258-4060-b8a2-6a56a2038097,boattrip.health,available,19.99,,high,low,9,name.com,,,
 c3eabc3e-ed0d-440b-8b0d-881bddd4cec6,earlike.health,available,12.98,107.98,low,low,8,namecheap,,,07/08/2026 18:07
 ffb85aa9-6476-4725-8ac2-6868ff739c2f,bedewed.health,available,12.98,107.98,low,low,7,namecheap,,,09/08/2026 06:46
@@ -641,7 +641,7 @@ d4ab1dbe-15e2-4b6a-92d2-6f9ad2ac1dd3,increased.health,available,19.99,,high,low,
 0cf9a56d-a0f9-44fe-8cb5-a6a92e891d02,acetic.health,available,12.98,107.98,low,low,6,namecheap,,,
 f5280970-eaab-4acc-954d-aa5a3b00b2d5,whotheheck.health,available,19.99,,low,low,12,name.com,,,
 c513b226-0097-4925-a166-dd05a93ad882,astound.health,available,19.99,,high,low,7,name.com,,,
-1570352f-b89e-419a-9647-6e10903f81bc,Englishspeaking.health,available,19.99,,medium,low,16,name.com,,,
+1570352f-b89e-419a-9647-6e10903f81bc,englishspeaking.health,available,19.99,,medium,low,16,name.com,,,
 9ba52b5d-81c5-43b5-926f-b111b6a1f448,assamese.health,available,12.98,107.98,low,low,8,namecheap,,,07/08/2026 05:38
 e071d200-a584-4fa0-93a0-0263dfa53a07,breathtaking.health,available,19.99,,high,low,12,name.com,,,
 d4bec451-a738-4dc7-ab28-c3fd3aa59413,apophatic.health,available,12.98,107.98,low,low,9,namecheap,,,06/08/2026 02:27
@@ -700,7 +700,7 @@ ab33f350-bdab-4f84-a883-457e37923fc5,qualifier.health,available,19.99,,medium,lo
 b8161cbe-accc-4331-a09f-a40ace02c7b8,disrespect.health,available,19.99,,high,low,10,name.com,,,
 6a0bbb3c-259e-41e3-8977-4a1e38ad5b8f,hour.health,available,19.99,,high,low,4,name.com,,,
 b4f1e97d-7125-41ac-8bc9-680b49e185e9,nebula.health,resell,,,high,low,6,"Spaceship, Inc.",07/01/2025 00:28,07/01/2027 00:28,
-e486dd1e-50f6-457a-a5b4-4721e305d5fc,Shakespeare.health,available,19.99,,high,low,11,name.com,,,
+e486dd1e-50f6-457a-a5b4-4721e305d5fc,shakespeare.health,available,19.99,,high,low,11,name.com,,,
 b9969ae4-7b62-4955-b30a-ea929e94dbfc,heptad.health,available,12.98,107.98,low,low,6,namecheap,,,
 478c6427-dce2-4216-b14f-31aa52d30e3d,lvii.health,available,12.98,107.98,low,low,4,namecheap,,,
 677b7ab6-43bf-4bb7-a182-1c455083113b,golfgame.health,available,19.99,,high,low,9,name.com,,,
@@ -717,7 +717,6 @@ d3a4ece8-199e-4562-addc-17284c873666,actinon.health,available,12.98,107.98,low,l
 cb340ec4-e78b-4929-b3e4-8ca7b2ade253,admonitory.health,available,12.98,107.98,low,low,10,namecheap,,,
 b610fb31-8212-4948-ae89-b72a0a151652,butt.health,resell,,,medium,low,4,"GoDaddy.com, LLC",21/12/2024 13:29,21/12/2025 13:29,
 a929ffb7-5140-4847-890b-1ed7b98d2cf5,burned.health,available,19.99,,medium,low,6,name.com,,,
-d05b4afa-bbef-427f-9e45-4b1b76425d1e,sweet.health,resell,,,high,low,5,Dynadot Inc,21/07/2025 00:00,21/07/2026 00:00,
 554e9980-4ec8-4da5-96ee-9b714887948f,unity.health,resell,,,high,low,5,"GoDaddy.com, LLC",05/12/2017 15:33,05/12/2026 15:33,
 e03ccca0-7ab6-4a1a-970d-1bd91a537a64,skyblue.health,resell,,,medium,low,8,"Spaceship, Inc.",29/04/2026 21:08,29/04/2027 21:08,08/08/2026 03:14
 7d8e09c7-73e8-4377-b1f9-3d59be5a3145,celiacdisease.health,available,19.99,,medium,low,14,name.com,,,
@@ -746,7 +745,7 @@ e126056c-7863-483f-a8db-3fc33c1ee342,watching.health,available,19.99,,medium,low
 6c9250fd-50ac-4da0-9f8a-dbe2983823de,departmentstore.health,available,19.99,,high,low,16,name.com,,,
 000819f2-1e31-49b0-9547-d480a6da19d8,lucy.health,resell,,,high,low,4,"Spaceship, Inc.",23/08/2025 01:29,23/08/2026 01:29,
 1b566115-720f-4319-b2a6-baf7d790c41f,whitened.health,available,19.99,,medium,low,8,name.com,,,
-a9781259-21e4-43c8-a258-0c27faaafede,SouthAmerica.health,premium,6250,,low,low,13,name.com,,,
+a9781259-21e4-43c8-a258-0c27faaafede,southamerica.health,premium,6250,,low,low,13,name.com,,,
 768a75b6-863e-4fcb-88dc-199c22d53b85,avascular.health,available,12.98,107.98,low,low,9,namecheap,,,07/08/2026 22:19
 9ccd179f-bc79-43a0-98d7-54be4a34b7cb,gettakenin.health,available,19.99,,medium,low,12,name.com,,,
 25510ebf-0dd6-44dd-b26d-df43c31fe95c,unfearing.health,available,19.99,,medium,low,9,name.com,,,
@@ -791,7 +790,7 @@ c4a00a2e-af61-4b90-9813-309b950511ed,rightandleft.health,available,19.99,,low,lo
 7aed4ed8-afb7-4ec7-9308-623184dcd0b7,impromptu.health,available,12.98,107.98,medium,low,9,namecheap,,,
 e6e38c8e-55d9-48a3-b427-13739c736165,recoveredmemory.health,available,19.99,,high,low,16,name.com,,,
 ec5da38e-0133-469e-a9d1-239a8eb18b0f,fuckinghell.health,available,19.99,,medium,low,12,name.com,,,
-e5b465cd-0017-49ba-8ea6-3643ff40ff70,Romannumerals.health,available,19.99,,low,low,14,name.com,,,
+e5b465cd-0017-49ba-8ea6-3643ff40ff70,romannumerals.health,available,19.99,,low,low,14,name.com,,,
 024bebb2-5031-42da-9f41-2b1226af3ca5,royalblue.health,available,19.99,,high,low,10,name.com,,,
 f29d01be-9cf7-4e82-aaaf-ac72f5df8784,discredit.health,available,19.99,,high,low,9,name.com,,,
 db0ee900-9781-4797-8e11-d7267a8f4cff,violated.health,available,19.99,,medium,low,8,name.com,,,
@@ -808,7 +807,7 @@ f1589b14-8375-4533-865a-6f923cb3ff75,abaft.health,available,12.98,107.98,low,low
 43ab011e-6aba-4453-b991-bd50995a0fe0,lock.health,available,19.99,,medium,low,4,name.com,,,
 7cd47fea-3845-4f1a-a1b0-df9bc2021476,anapestic.health,available,12.98,107.98,low,low,9,namecheap,,,
 ec7c4b15-60cd-4770-bac4-0ff1579e7d72,torturing.health,available,12.98,107.98,low,low,9,namecheap,,,
-fd2786fd-4e68-45fa-897c-e75232a17d36,RomanCatholic.health,available,19.99,,high,low,14,name.com,,,
+fd2786fd-4e68-45fa-897c-e75232a17d36,romancatholic.health,available,19.99,,high,low,14,name.com,,,
 0b8067d0-8f5f-4516-8092-943e67cb2149,hermitical.health,available,12.98,107.98,low,low,10,namecheap,,,
 5232f415-7c74-4475-b863-287f4dd28c44,reassuringly.health,available,19.99,,medium,low,12,name.com,,,
 c83b9f95-6ea2-46eb-97b4-d3fb4045f986,definitely.health,available,19.99,,medium,low,10,name.com,,,
@@ -851,13 +850,13 @@ a664137a-77c9-4c58-b6ff-344d9e225e78,spam.health,available,19.99,,medium,low,4,n
 d0d893e5-293a-4e9a-bf81-6624bcfb34a4,airline.health,available,19.99,,high,low,7,name.com,,,
 89aa4ef5-cac5-4518-8acf-4446da6639a6,whatisthat.health,available,,,low,low,12,,,,
 f9a009a6-f54b-4c2f-9af7-99698976cf96,any.health,premium,1250,,high,medium,3,name.com,,,
-d0d16050-b944-4d5b-b467-86626ceda4d2,computing.health,available,3.98,107.98,medium,low,9,namecheap,,,15/09/2026 02:43
-c51d3f32-5367-4792-8e30-dbb34f63ee00,NewZealand.health,available,,,medium,low,11,,,,
+d0d16050-b944-4d5b-b467-86626ceda4d2,computing.health,available,77.99,77.99,medium,low,9,namesilo,,,19/09/2026 12:12
+c51d3f32-5367-4792-8e30-dbb34f63ee00,newzealand.health,available,,,medium,low,11,,,,
 fb388f6e-e23c-446b-924d-2b8bafbc609d,infront.health,available,89.99,103.99,medium,low,8,name.com,,,
 e682a70e-3708-4ca0-a6b4-d8b9408f0aae,tornadoshelter.health,available,19.99,,medium,low,15,name.com,,,
 bbc76e0a-73ac-41f9-8ee8-55b6e1d30303,loss.health,available,19.99,,medium,low,4,name.com,,,
 433c8733-2603-4f6b-97f1-5370f5cf3040,agrypnotic.health,available,12.98,107.98,low,low,10,namecheap,,,
-20f473b3-ecd5-431b-8765-d016570d0e3d,Guys.health,available,107.98,,medium,low,4,namecheap,,,
+20f473b3-ecd5-431b-8765-d016570d0e3d,guys.health,available,107.98,,medium,low,4,namecheap,,,
 ae76c1e9-ac81-4819-aa05-d1ff8ff4ab04,hardcurrency.health,available,19.99,,high,low,13,name.com,,,
 e1c90943-b495-46b7-9a26-d73344a51f6c,truthordare.health,available,19.99,,low,low,13,name.com,,,
 13b3fcd9-e462-4357-a4a2-4d537bf879f3,beg.health,premium,1107,71.4,medium,low,3,namesilo,,,
@@ -877,12 +876,11 @@ e32f3e81-37eb-4dbe-b8a7-5a586ecdc8f8,inorderto.health,available,19.99,,low,low,1
 e3f75d1a-9894-4600-a204-76591e6dc98b,realised.health,available,89.99,103.99,high,low,8,name.com,,,
 5db6f82c-f794-455d-a6e4-7a48d4a21d86,closetohome.health,available,19.99,,medium,low,13,name.com,,,
 add20a02-1548-4353-845a-445c0ad45e80,balmy.health,available,19.99,,high,low,5,name.com,,,
-760fca4a-e228-40a0-945f-05267191ce7e,GodSavetheKing.health,available,19.99,,high,low,17,name.com,,,
+760fca4a-e228-40a0-945f-05267191ce7e,godsavetheking.health,available,19.99,,high,low,17,name.com,,,
 3143fd79-fb32-4fe8-84f2-78e2f11dbc30,fiftytwo.health,available,12.98,107.98,low,low,9,namecheap,,,
-e63ecb0b-9c35-4425-9db0-e12b60f98694,ribbon.health,resell,,,high,low,6,"Spaceship, Inc.",18/07/2025 00:02,18/07/2026 00:02,
 0de53c51-d863-4ffa-9ffc-c6f427271afa,scented.health,available,19.99,,high,low,7,name.com,,,
 b1bea8c6-22c2-46e2-88a2-115f2d45e436,footballer.health,available,19.99,,high,low,10,name.com,,,
-11842308-a13f-4914-a4fe-ff0567b26920,player.health,resell,19.99,,medium,low,6,"Spaceship, Inc.",29/04/2026 08:06,29/04/2027 08:06,15/09/2026 00:56
+11842308-a13f-4914-a4fe-ff0567b26920,player.health,resell,19.99,,low,low,6,"Spaceship, Inc.",29/04/2026 08:06,29/04/2027 08:06,19/09/2026 09:54
 dfb91ce6-e998-4b18-bb39-346f39c02122,bakery.health,available,19.99,,high,low,6,name.com,,,
 98717ca9-db40-4ebd-a7df-e0102c05332d,webbrowser.health,available,19.99,,high,low,11,name.com,,,
 c4ca3c38-9059-423d-a08d-f4b80919d7fe,childlabor.health,available,19.99,,medium,low,11,name.com,,,
@@ -894,7 +892,7 @@ e5f8e290-b90e-4abc-8335-48e630b547bc,main.health,resell,,,high,low,4,"Sav.com, L
 32f2b40a-db2a-4f73-8167-f676887b945b,follower.health,available,19.99,,medium,low,8,name.com,,,
 0f37c88a-3ebc-4131-82eb-946013f12227,apelike.health,available,12.98,107.98,low,low,7,namecheap,,,
 a1045296-aba7-4236-83de-50e3bf0f19db,knockitoff.health,available,19.99,,high,low,12,name.com,,,
-71453bbc-02b8-46d9-bcbf-6ebe394fc0a5,active.health,premium,6250,103.99,high,low,6,name.com,,,
+71453bbc-02b8-46d9-bcbf-6ebe394fc0a5,active.health,premium,6500,78,medium,low,6,namecheap,,,20/09/2026 03:06
 7698d51c-e065-4802-8c59-31582b714888,symbol.health,available,,,high,low,6,,,,
 b15441b6-1a09-48c2-bff3-70db22cb4b05,goodby.health,available,19.99,,medium,low,7,name.com,,,
 2bc4d99a-aefa-417f-89d6-589b9b662a7e,acetose.health,available,12.98,107.98,low,low,7,namecheap,,,
@@ -919,12 +917,12 @@ f0d6fa38-acea-49a5-87fd-2337bae7ada3,alley.health,available,19.99,,medium,low,5,
 26de76b3-b681-4880-8456-9227f6d2c7fb,accused.health,available,19.99,,high,low,7,name.com,,,
 e066770a-3e5d-4728-93ab-45ba18ac6a45,endowment.health,available,19.99,,high,low,9,name.com,,,
 4cb3dd67-8a53-48a8-a192-af1776ba6b0e,anorectic.health,available,12.98,107.98,low,low,9,namecheap,,,
-58d92ce9-6ee1-4bea-b9cc-11719f62e50c,snack.health,premium,1107,71.4,medium,low,5,namesilo,,,08/09/2026 13:13
+58d92ce9-6ee1-4bea-b9cc-11719f62e50c,snack.health,premium,1107,71.4,medium,low,5,namesilo,,,19/09/2026 10:58
 e2f53671-c997-42bc-8b00-d33268b48459,smelling.health,available,19.99,,medium,low,8,name.com,,,
 7e5c1180-cd97-4071-9236-d384e813351d,gotothebathroom.health,available,19.99,,medium,low,18,name.com,,,
 5b3af839-4784-4428-bb6e-19558f023a81,generalrelativity.health,available,19.99,,high,low,18,name.com,,,
 e49fbd5c-0766-4f4e-9c6d-a349fb0d33ef,condolences.health,available,19.99,,high,low,11,name.com,,,
-9c620e20-1a4b-4fa1-b7c8-6c6548a09694,Westminster.health,premium,625,,medium,low,11,name.com,,,
+9c620e20-1a4b-4fa1-b7c8-6c6548a09694,westminster.health,premium,625,,medium,low,11,name.com,,,
 599982db-cf7f-4594-b456-fdc7dd597858,alkahestic.health,available,12.98,107.98,low,low,10,namecheap,,,
 acdd7b1e-7e7f-4558-a1b0-0fa4a6e6c703,worshipful.health,available,12.98,107.98,low,low,10,namecheap,,,
 86ced8a9-bf08-44b3-a269-a13b783ac69f,cow.health,premium,1107,71.4,high,low,3,namesilo,,,
@@ -956,14 +954,14 @@ b1e6eb3f-10a7-4b27-9f7e-468a999eebf4,independenceday.health,available,19.99,,hig
 209bd9ac-e4e6-41d9-84ae-8515d08a1e69,febrifuge.health,available,12.98,107.98,medium,low,9,namecheap,,,
 e93a293a-d17c-4b34-b20c-38b9e268aeec,hindmost.health,available,12.98,107.98,low,low,8,namecheap,,,08/08/2026 06:04
 b0e7c52b-bdb3-4a1e-9bb7-6e5b77d3e19e,gooff.health,available,19.99,,medium,low,6,name.com,,,
-b429284e-9e71-47ad-9be2-a03934178895,StPetersburg.health,premium,242,71.4,medium,low,14,namesilo,,,
+b429284e-9e71-47ad-9be2-a03934178895,stpetersburg.health,premium,242,71.4,medium,low,14,namesilo,,,
 a674b354-fdb1-4183-ba27-b4eb91cc1536,ducttape.health,available,19.99,,medium,low,9,name.com,,,
 80020ef3-a1bf-4eda-844f-15998de7bdbe,annexal.health,available,12.98,107.98,low,low,7,namecheap,,,
 8d3662e7-4c92-4c35-8055-023a65fd31db,abroach.health,available,12.98,107.98,low,low,7,namecheap,,,
 1f7f31d0-6979-45ec-b8ea-1b9541d23473,fouled.health,available,12.98,107.98,low,low,6,namecheap,,,
 46b47957-8bdf-4b58-b718-733fe75c778e,pretence.health,available,19.99,,medium,low,8,name.com,,,
 deeb2670-fdfc-4692-889b-730f38f88132,discord.health,available,,,high,medium,7,,,,
-f7ace883-c764-43b6-a175-392bcd0fc6c5,Christalive.health,available,19.99,,high,low,12,name.com,,,
+f7ace883-c764-43b6-a175-392bcd0fc6c5,christalive.health,available,19.99,,high,low,12,name.com,,,
 c198f7af-7e49-42f3-8a12-e737f28ed20e,roughly.health,available,89.99,103.99,medium,low,7,name.com,,,
 8c78b8f3-12f4-49ee-be44-e1f43d218531,bloodplasma.health,available,19.99,,high,low,12,name.com,,,
 688084d0-99fd-421e-8fe1-e904d298208f,overdue.health,available,19.99,,medium,low,7,name.com,,,
@@ -999,3 +997,5 @@ c38dcbe2-d559-44af-875d-478d9e3c0ef1,intend.health,available,19.99,,high,low,6,n
 b3729587-c11a-438f-9cd3-32beb18ad9de,stately.health,available,12.98,107.98,low,low,7,namecheap,,,08/08/2026 20:22
 89d765c8-d01f-4141-90d5-8e1fa49cff26,apart.health,available,19.99,,high,low,5,name.com,,,
 ae89ed26-82e3-4dd3-b677-ed5772a392d3,cheesy.health,available,19.99,,medium,low,6,name.com,,,
+48907417-7e7c-45df-b43e-b25f6b8b9749,penetration.health,available,3.98,107.98,low,low,11,namecheap,,,08/09/2026 15:09
+b8b6d968-0e9f-465b-9e52-e3b0878034da,organizations.health,available,19.99,,low,low,13,name.com,,,

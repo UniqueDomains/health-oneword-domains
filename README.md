@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .health one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,357 domains · **Median ask:** $151.29 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/health`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| off.health       | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo        |
 | ague.health      | available | $12.98    | $107.98       | low            | low    | 4      | namecheap       |
 | desk.health      | resell    | $19.99    | —             | medium         | low    | 4      | Spaceship, Inc. |
 | abc.health       | premium   | $6,500    | $71.50        | high           | medium | 3      | namecheap       |
@@ -71,7 +72,7 @@ print(df.head())
 | from.health      | resell    | $19.99    | —             | medium         | low    | 4      | Dynadot Inc     |
 | ago.health       | premium   | $1,107    | $71.40        | medium         | low    | 3      | namesilo        |
 | boot.health      | available | $19.99    | —             | high           | low    | 4      | name.com        |
-| player.health    | resell    | $19.99    | —             | medium         | low    | 6      | Spaceship, Inc. |
+| player.health    | resell    | $19.99    | —             | low            | low    | 6      | Spaceship, Inc. |
 | ain.health       | premium   | $1,107    | $71.40        | low            | low    | 3      | namesilo        |
 | both.health      | available | $19.99    | —             | high           | low    | 4      | name.com        |
 | thanks.health    | resell    | $19.99    | —             | high           | low    | 6      | Spaceship, Inc. |
@@ -83,7 +84,6 @@ print(df.head())
 | technique.health | resell    | $19.99    | —             | high           | low    | 9      | Spaceship, Inc. |
 | bae.health       | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo        |
 | curl.health      | available | $19.99    | —             | medium         | low    | 4      | name.com        |
-| lightbulb.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTH One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
