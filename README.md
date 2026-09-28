@@ -1,10 +1,10 @@
-# Available .HEALTH One-Word Domains (20,693)
+# Available .HEALTH One-Word Domains (21,157)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C693%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C157%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .health one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,693 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,157 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,693 domains · **Median ask:** $243.71 · **High-demand under $2,500:** 13
+**Public extract:** 1,000 rows · **Live catalog:** 21,157 domains · **Median ask:** $243.88 · **High-demand under $2,500:** 15
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/health`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| acer.health   | available | $77.99    | $77.99        | high           | low    | 4      | namesilo        |
-| shed.health   | resell    | $19.99    | —             | high           | low    | 4      | Spaceship, Inc. |
-| age.health    | premium   | $10,350   | $71.40        | high           | low    | 3      | namesilo        |
-| afrl.health   | available | $77.99    | $77.99        | medium         | low    | 4      | namesilo        |
-| wall.health   | resell    | $19.99    | —             | high           | low    | 4      | Dynadot Inc     |
-| auk.health    | premium   | $1,107    | $71.40        | medium         | low    | 3      | namesilo        |
-| agar.health   | available | $77.99    | $77.99        | medium         | low    | 4      | namesilo        |
-| boats.health  | resell    | $19.99    | —             | high           | low    | 5      | Dynadot Inc     |
-| beg.health    | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo        |
-| anil.health   | available | $3.79     | $77.99        | high           | low    | 4      | namesilo        |
-| stamp.health  | resell    | $19.99    | —             | high           | low    | 5      | Dynadot Inc     |
-| bet.health    | premium   | $1,107    | $71.40        | high           | medium | 3      | namesilo        |
-| aras.health   | available | $77.99    | $77.99        | medium         | low    | 4      | namesilo        |
-| border.health | resell    | $19.99    | —             | high           | low    | 6      | Spaceship, Inc. |
-| bjp.health    | premium   | $1,250    | —             | high           | low    | 3      | name.com        |
-| ards.health   | available | $77.99    | $77.99        | high           | low    | 4      | namesilo        |
-| letter.health | resell    | $19.99    | —             | high           | low    | 6      | Dynadot Inc     |
-| bps.health    | premium   | $1,300    | $78           | high           | low    | 3      | namecheap       |
-| asur.health   | available | $77.99    | $77.99        | medium         | low    | 4      | namesilo        |
-| reduce.health | resell    | $89.99    | $103.99       | high           | low    | 6      | Spaceship, Inc. |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| acer.health    | available | $77.99    | $77.99        | high           | low    | 4      | namesilo        |
+| shed.health    | resell    | $19.99    | —             | high           | low    | 4      | Spaceship, Inc. |
+| age.health     | premium   | $10,350   | $71.40        | high           | low    | 3      | namesilo        |
+| afrl.health    | available | $77.99    | $77.99        | medium         | low    | 4      | namesilo        |
+| wall.health    | resell    | $19.99    | —             | high           | low    | 4      | Dynadot Inc     |
+| auk.health     | premium   | $1,107    | $71.40        | medium         | low    | 3      | namesilo        |
+| agar.health    | available | $77.99    | $77.99        | medium         | low    | 4      | namesilo        |
+| boats.health   | resell    | $19.99    | —             | high           | low    | 5      | Dynadot Inc     |
+| beg.health     | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo        |
+| anil.health    | available | $3.79     | $77.99        | high           | low    | 4      | namesilo        |
+| stamp.health   | resell    | $19.99    | —             | high           | low    | 5      | Dynadot Inc     |
+| bet.health     | premium   | $1,107    | $71.40        | high           | medium | 3      | namesilo        |
+| aras.health    | available | $77.99    | $77.99        | medium         | low    | 4      | namesilo        |
+| border.health  | resell    | $19.99    | —             | high           | low    | 6      | Spaceship, Inc. |
+| bjp.health     | premium   | $1,250    | —             | high           | low    | 3      | name.com        |
+| ards.health    | available | $77.99    | $77.99        | high           | low    | 4      | namesilo        |
+| reduce.health  | resell    | $89.99    | $103.99       | high           | low    | 6      | Spaceship, Inc. |
+| bps.health     | premium   | $1,300    | $78           | high           | low    | 3      | namecheap       |
+| asur.health    | available | $77.99    | $77.99        | medium         | low    | 4      | namesilo        |
+| strange.health | resell    | $19.99    | —             | high           | low    | 7      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,693 live domains                        |
+| 1,000-row public sample | 21,157 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 13 high-demand names under $2,500          |
+| Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
